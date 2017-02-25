@@ -16,13 +16,13 @@ h4 {
 	font-family: 'Roboto', sans-serif;
 }
 .content {
-    width: 400px;
-    border: 4px;
-    padding: 20px;
+	width: 250px;
+    padding-left: 120px;
+    padding-top:7px;
     overflow: hidden;
 }
 
 .content img {
-    margin-right: 15px;
-    float: left;
+    margin-right: 200px;
+    float: under;
 }
